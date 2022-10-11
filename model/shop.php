@@ -1,6 +1,4 @@
 <?php
-// 店舗登録に関する関数ファイル
-
 
 // 都道府県連想配列で取得
 function prefecture_array() {
